@@ -84,7 +84,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/telecom-churn-prediction.git
+   git clone https://github.com/arnavpatil427gh/telecom-churn-prediction.git
    cd telecom-churn-prediction
    ```
 2. **Place the dataset:**
